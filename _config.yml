@@ -24,7 +24,6 @@ avatar_image: /img/DSI_t1.jpg
 # Contact links
 linkedln: "https://www.linkedin.com/in/lagayla-berry/" # Add your linkedln handle
 github: "https://github.com/lberry1"  # Add your github handle
-tableau:  "https://public.tableau.com/app/profile/l.berry/viz/DSIEarthquakeDashboard_16779073807970/DSIEarthquakeTracker?publish=yes"
 
 paginate: 6
 paginate_path: "/page/:num"
