@@ -5,7 +5,7 @@ image: "/posts/earthquake_map.jpg"
 tags: [Tableau, Data Viz]
 ---
 
-In this project, I've created an interactive dashboard that tells the story of global earthquake movement on a daily scale over time across various matrix simultaneously to enable the analysis of key patterns in the data!
+In this project, I've created an interactive dashboard that tells the story about the global movement of earthquakes on a daily scale over time across various matrix simultaneously which enables a detailed analysis of key patterns in the data!
 
 ---
 
