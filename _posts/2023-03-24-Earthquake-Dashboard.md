@@ -5,7 +5,7 @@ image: "/posts/earthquake_map.jpg"
 tags: [Tableau, Data Viz]
 ---
 
-In this project, I've created an interactive dashboard that tells the story about the global movement of earthquakes, on a daily scale over time, across various matrix which enables a detailed analysis of key patterns in the data!  Click through the <font color="orange">**Analysis Date**</font> below to vision the data stats changing concurrently over time.
+In this project, I've created an interactive dashboard that tells the story about the global movement of earthquakes, on a daily scale over time, across various matrix which enables a detailed analysis of key patterns in the data!  Click through the <font color="orange">Analysis Date</font> below to vision the data stats changing concurrently over time.
 
 ---
 
